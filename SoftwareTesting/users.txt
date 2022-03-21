@@ -1,0 +1,6 @@
+
+Ioan;programmer
+Matei;tester
+Ana;tester
+Ovidiu;tester
+Mara;programmer
